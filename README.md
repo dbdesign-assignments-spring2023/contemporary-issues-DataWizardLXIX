@@ -13,10 +13,10 @@ I further believe that access to a large amount of data can only serve to enhanc
 In Mathias Lanni's article [_Is there such a thing as too much data_?](https://futuramo.com/blog/is-there-such-thing-like-too-much-data/), he contributes  to the discussion by providing an opposing view and solution to Elik Eizenberg's problematization.
 
 Throughout the text, Lanni makes some great points on data, the following is an extraction from his article:
->There can be too much unsorted data.
->There can be too many databases which need to be consolidated.
->There can be too much false data.
->But when the **data is good**, there’s **no such thing as too much of it**.
+>There can be too much unsorted data.  
+>There can be too many databases which need to be consolidated.  
+>There can be too much false data.  
+>But when the **data is good**, there’s **no such thing as too much of it**.  
 
 I agree with this perspective - that the concern shouldn't primarily be about having too much data, but rather the inability to effectively utilize all the valuable data that is available to us.
 
